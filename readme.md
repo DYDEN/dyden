@@ -52,6 +52,7 @@
 
 [![Go basic ](https://github-readme-stats.vercel.app/api/pin/?username=dyden&repo=go-basic&show_owner=true)](https://github.com/dyden/go-basic)
 [![Go medium ](https://github-readme-stats.vercel.app/api/pin/?username=dyden&repo=go-medium&show_owner=true)](https://github.com/dyden/go-medium)
+[![Go avanced ](https://github-readme-stats.vercel.app/api/pin/?username=dyden&repo=go-avanced&show_owner=true)](https://github.com/dyden/go-avanced)
 <br>
 <h1 align="center">STADISTICS 📊</h1>
 <p align = "center">
